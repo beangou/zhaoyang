@@ -1,0 +1,142 @@
+h3.CollapsedHeader a {
+    color: #333333;
+    display: block;
+    font-size: 13px !important;
+    font-weight: normal;
+    text-decoration: none;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+a {
+    color: #0072C6;
+    text-decoration: none;
+}
+
+h3.CollapsedHeader {
+    background: url("/library/images/support/CN/20x20-plus.png") no-repeat scroll 10px 12px #EBEBEB;
+    clear: both;
+    cursor: pointer;
+    display: block;
+    font-family: "Segoe UI",Tahoma,Geneva,Verdana,sans-serif;
+    height: 43px;
+    line-height: 43px;
+    margin-bottom: 1px;
+    margin-top: 0;
+    overflow: hidden;
+    text-indent: 40px;
+}
+.wp h3 {
+    font-size: 75%;
+}
+.wp h3 {
+    font-size: 70%;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.gsfx_brnd_PageContainer h3 {
+    margin: 19px 0;
+}
+html, body, form, div, h1, h2, h3, h4, h5, h6, li, ol, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+display: block;
+font-size: 1.17em;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+font-weight: bold;
+}
+
+h3.CollapsedHeader a {
+display: block;
+text-decoration: none;
+color: #333333;
+font-size: 13px!important;
+font-weight: normal;
+}
+
+h3.CollapsedHeader a {
+display: block;
+text-decoration: none;
+color: #333333;
+font-size: 13px!important;
+font-weight: normal;
+}
+a:link, a:visited {
+text-decoration: none;
+}
+a:link, a:visited {
+text-decoration: none;
+}
+a {
+color: #0072c6;
+text-decoration: none;
+}
+a:-webkit-any-link {
+color: -webkit-link;
+text-decoration: underline;
+cursor: auto;
+}
+
+ul.CollapsedContent {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #FFFFFF;
+}
+
+.gsfx_brnd_PageContainer ol, .gsfx_brnd_PageContainer ul {
+margin: 16px 0 16px 40px;
+padding: 0;
+}
+html, body, form, div, h1, h2, h3, h4, h5, h6, li, ol, p, ul {
+margin: 0;
+padding: 0;
+}
+
+ul, menu, dir {
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
+
+.MediaTile {
+    color: #333333;
+    display: block;
+    font-family: "Segoe UI",Tahoma,Geneva,Verdana,sans-serif;
+    font-size: 15px !important;
+    font-weight:bold;
+    margin: 5px 0 12px 20px;
+    position: relative;
+    text-indent: 0;
+    width: 295px;
+}
+
+table
+  {
+  border-collapse:collapse;
+  }
+
+table,th, td
+  {
+  border: 2px solid #BCBCBC;
+  }
+
+.tdBackcolor
+{
+	background-color: #ECEDEF;
+}
+
+tbody tr td {
+	text-align:center;
+}

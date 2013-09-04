@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+#downloadPane{
+	background: #F0F0F0;
+	padding: 20px 30px;
+}
+#downloadInfo{
+	background: #EEEEEE;
+	width:100%;
+	margin: 0 auto;
+	border-collapse: collapse;
+	margin-top: 20px;
+	border-top: 4px solid #B3D7F0;
+	border-bottom: 2px solid #B3D7F0;
+}
+
+#downloadPane h1{
+	font-weight: bold;
+	font-size: 18px;
+	height: 40px;
+	line-height: 40px;
+}
+#downloadPane p{
+	line-height: 30px;
+	color: #666666;
+}
+.dtitle{
+	background: #4286F4;
+	height: 36px;
+	font-weight: bold;
+	font-size: 16px;
+	color:white;
+}
+#downloadmenu{
+	height: 500px;
+}
+#downloadmenu li{
+	height: 58px;
+	line-height:58px;
+	background: url("../image/download/sub_bg.png");
+}
+#downloadmenu li a{
+	display: block;
+	height: 100%;
+	width: 100%;
+	text-decoration: none;
+}
+#downloadmenu li a span{
+	left: 80px;
+	top: 10px;
+	color:#0048E6;
+	font-size: 14px;
+	float:right;
+	margin-right: 90px;
+}
+#downloadmenu li:hover{
+	background:url("../image/download/sub_chosen.png");
+}
+#downloaddetail{
+	width: 100%;
+	height: 490px;
+	margin-top: 10px;
+}
+#downloaddetail li{
+	height:35px;
+	line-height: 35px;
+	border-bottom: 1px solid #D2D2D2;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left:10px;
+}
+#downloaddetail li:hover{
+	background: #F0F8FD;
+}
+.desc,.downloadarea{
+	float: right;
+	margin-right: 20px;
+}
+#notice{
+	text-align: center;
+}

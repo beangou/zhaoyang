@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:"宋体","Georgia";
+	background:url(../image/bg.jpg);
+}
+body,div,h1,h2,h3,h4,h5,p,ul,li{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style:none;
+	
+}
+.wrap{
+	width:980px;
+	margin:0 auto;
+}
+.head{
+	background:url(../image/headbg.jpg);
+	height:160px;
+}
+.nav{
+	height:36px;
+}
+.nav ul{
+	background: url(../image/menu_bg.jpg) repeat-x;
+	height: 100%;
+	color:white;
+}
+.nav ul li{
+	float:left;
+	height: 100%;
+	width: 108px;
+	text-align: center;
+	line-height: 36px;
+}
+.nav ul li:hover{
+	background: #4B4B4B;
+}
+.nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+}
