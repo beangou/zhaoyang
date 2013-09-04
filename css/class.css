@@ -1,0 +1,160 @@
+.col1 {
+	width:173px;
+}
+
+.col1, col2, .col3 {
+	display: inline;
+	float: left;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.box1, .box3 {
+	background: #dcf5d7;
+}
+
+.title1 {
+	display: block;
+	text-indent: -9999px;
+	background: url(../image/class/title1.jpg) no-repeat 7px 2px;
+	line-height: 35px;
+}
+
+.box1 .inner {
+	height: 742px;
+	border-color: #b1e9a8;
+	border-style: solid;
+	border-width: 0 1px 1px 1px;
+	zoom: 1;
+}
+
+.inner {
+	padding: 5px;
+	zoom:1;
+}
+
+.box {
+	padding: 5px;
+	border: 1px solid #c0e0e0;
+	border-top: none;
+	margin: 6px auto;
+	border: 1px solid #b1e9a8;
+	background: snow;
+	padding: 0 0 5px 0;
+	height: 730px;
+}
+
+.allsort {
+	z-index: 11;
+	float: left;
+	position: relative;
+	width: 100%;
+}
+
+.allsort .mt {
+	background: #e8f7d4;
+	height: 30px;
+	line-height: 30px;
+	color: #4a8221;
+	font-weight: 700;
+	padding-left: 60px;
+	margin-bottom: 5px;
+}
+
+.allsort .mc {
+	overflow: visible;
+	width: 100%;
+	position: relative;
+	z-index: 1;
+	background: #fff;
+}
+
+.left-name {
+	float: left;
+	width: 36px;
+	padding-left: 3px;
+}
+
+.right-subject {
+	margin-left: 47px
+}
+
+
+.col2-3 {
+width: 820px;
+//float: right;
+}
+
+p {
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+body, ul, ol, em, i, h1, h2, h3, h4, li, form, label, input, p, dl, dt, dd {
+font-size: 12px;
+font-family: Verdana,Tahoma,Arial,sans-serif,\5b8b\4f53;
+color: #666;
+line-height: 24px;
+}
+
+.container {
+width: 610px;
+_width: 598px;
+margin: 11px auto;
+overflow: hidden;
+zoom: 1;
+}
+
+.item {
+width: 300px;
+_width: 294px;
+float: left;
+margin-left: 5px;
+margin-top: 8px;
+margin-bottom: 8px;
+display: inline;
+}
+.item {
+overflow: hidden;
+}
+.pict-lr {
+overflow: hidden;
+}
+user agent stylesheetdiv {
+display: block;
+}
+Inherited from div#searchResult.container
+.container {
+zoom: 1;
+}
+
+.item .pic {
+background: url(../image/class/book-bg.jpg) no-repeat left top;
+width: 102px;
+margin-right: 5px;
+display: block;
+}
+.pict-lr .pic {
+float: left;
+display: block;
+margin-right: 5px;
+}
+.box10 .item .pic a {
+margin-bottom: 10px;
+}
+.item .pic img {
+padding: 2px 1px 10px 4px;
+}
+a:visited {
+text-decoration: none;
+}
+strong, b {
+font-weight: bold;
+}
+

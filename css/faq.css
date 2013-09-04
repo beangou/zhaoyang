@@ -1,0 +1,606 @@
+
+.container-1 {
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    width: 960px;
+    z-index: 9999;
+}
+
+.container-1 div.search-nav {
+    position: relative;
+}
+
+#filter_nav.container-1 {
+    position: relative;
+}
+
+.container-1 div.search-nav .ul-1 li {
+    position: relative;
+}
+
+.container-1 {
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    width: 960px;
+    z-index: 9999;
+}
+
+.container-1 div.search-nav {
+    position: relative;
+}
+
+#filter_nav.container-1 {
+    position: relative;
+}
+
+.container-1 div.search-nav .ul-1 li {
+    position: relative;
+}
+
+.bread-crumb {
+    padding: 16px 0 6px;
+}
+.bread-crumb .img-1 {
+    float: right;
+    margin: 7px 0 0 6px;
+}
+.bread-crumb .span-1 {
+    cursor: pointer;
+    float: left;
+    font-family: "Microsoft Yahei","Heiti SC","&#40657;
+    font-size: 12px;
+}
+.bread-crumb p {
+    color: #949494;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.bread-crumb .p-lang {
+    float: right;
+    width: 85px;
+}
+.bread-crumb p a {
+    font-family: "Microsoft Yahei","Heiti SC","&#40657;
+    font-size: 12px;
+}
+.bread-crumb p span {
+    color: #949494;
+    font-family: "Microsoft Yahei","Heiti SC","&#40657;
+    font-size: 12px;
+}
+
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.clearfix {
+    display: inline-block;
+}
+.clearfix {
+    display: block;
+}
+
+.fl {
+    display: inline;
+    float: left;
+}
+
+.pr {
+    position: relative;
+}
+
+#support .a-current {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -462px transparent;
+    color: #DF1000;
+}
+
+.support {
+    padding-bottom: 0;
+}
+
+.support-search02 {
+    height: 85px;
+    position: relative;
+}
+
+.support-search02-left {
+    float: left;
+    width: 470px;
+}
+
+.support-search02-right {
+    background: url("../image/faq/img_dev_en_sup_search_right_bg.jpg") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 94px;
+    width: 472px;
+}
+
+.support-search02-right-content {
+    height: 60px;
+    padding: 10px 15px;
+    position: absolute;
+    width: 440px;
+}
+.support-search02-right-content .p1 {
+    color: #333333;
+    font-size: 14px;
+    padding-bottom: 8px;
+}
+.support-search02-right-content .ul .li {
+    display: inline;
+    float: left;
+    width: 177px;
+}
+.support-search02-right-content .ul .li-2 {
+    display: inline;
+    float: left;
+}
+.support-search02-right-content .ul .li-2 .a-1 {
+    background-color: #F1F1F1;
+    color: #707070;
+    font-size: 12px;
+    padding: 4px 12px;
+}
+
+ul, ol {
+    list-style: none outside none;
+}
+
+.Combo {
+    background-color: #FFFFFF;
+    background-image: url("../image/faq/img/select_bg03.jpg");
+    display: block;
+    float: left;
+    font: 12px "Microsoft Yahei","Heiti SC","&#40657;
+    height: 26px;
+    overflow: visible;
+    position: relative;
+    text-align: center;
+}
+
+.Combo select {
+    display: none;
+}
+.Combo .text {
+    border: 0 solid #CCCCCC;
+    float: left;
+    height: 26px;
+    overflow: hidden;
+    text-align: left;
+}
+.Combo .text input {
+    background-color: transparent;
+    border: 0 none;
+    color: #666666;
+    cursor: pointer;
+    display: block;
+    font: 12px/22px "Microsoft Yahei","Heiti SC","&#40657;
+    height: 26px;
+    padding-left: 13px;
+    text-align: left;
+    width: 100%;
+}
+.Combo .btn_up {
+    background-color: transparent;
+    cursor: pointer;
+    float: left;
+    height: 26px;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+}
+.Combo .btn_down {
+    background-color: transparent;
+    cursor: pointer;
+    float: left;
+    height: 26px;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+}
+.Combo ul {
+    border: 1px solid #CCCCCC;
+    clear: both;
+    display: none;
+    left: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0;
+    position: absolute;
+    text-align: left;
+    top: 26px;
+    z-index: 99;
+}
+.Combo_septum {
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: left;
+    top: 0;
+    width: 100%;
+}
+.Combo ul a {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #CCCCCC;
+    color: #959595;
+    display: block;
+    height: auto;
+    line-height: 26px;
+    list-style: none outside none;
+    min-height: 26px;
+    outline: medium none;
+    text-align: center;
+    text-decoration: none;
+}
+.Combo ul a p {
+    cursor: pointer;
+    display: block;
+    float: none;
+    line-height: 20px;
+    margin: 0;
+    padding: 3px 4px 3px 12px;
+    text-align: left;
+}
+.Combo ul .focus {
+    background-color: #F0F0F0;
+    color: #666666;
+}
+.Combo ul .focus p {
+    color: #666666;
+}
+.Combo ul .active {
+    background-color: #F0F0F0;
+}
+.Combo ul .active p {
+    color: #666666;
+}
+
+.support-current {
+    border-bottom: 1px solid #EBEBEB;
+    color: #333333;
+    font-size: 14px;
+    height: 33px;
+    line-height: 14px;
+    /*padding-left: 15px;
+    padding-top: 17px;*/
+}
+
+.product-support-faqs .ul-01 .li-0 {
+    border-bottom: 1px solid #EBEBEB;
+    color: #333333;
+    padding-bottom: 2px;
+    padding-top: 20px;
+}
+.product-support-faqs .ul-01 .li-0 div {
+    width: 810px;
+}
+.product-support-faqs .ul-01 .li-0 div .left, .product-support-faqs .ul-01 .li-0 div .left div {
+    width: 765px;
+}
+.product-support-faqs .ul-01 .li-0 .div-01 {
+    width: 960px;
+}
+.product-support-faqs .ul-01 .li-0 .div-04 {
+    width: 960px;
+}
+.product-support-faqs .ul-01 .li-0 div .left-01 {
+    margin-top: 10px;
+}
+.product-support-faqs .ul-01 .li-0 strong {
+    font-weight: normal;
+}
+.product-support-faqs .ul-01 .li-0 .anchor {
+    display: inline;
+    font-size: 1px;
+    height: 1px;
+    line-height: 1px;
+}
+.product-support-faqs .ul-01 .li-0 a {
+    color: #333333;
+}
+.product-support-faqs .ul-01 .li-0 a:hover {
+    color: #BF1000;
+}
+.product-support-faqs .ul-01 .li-0 .a-1 {
+    color: #333333;
+}
+.product-support-faqs .ul-01 .li-0 .a-1:hover {
+    color: #BF1000;
+}
+.product-support-faqs .ul-01 .li-0 .a-2 {
+    color: #BF1000;
+}
+.product-support-faqs .ul-01 .div-01 .p1 {
+    cursor: pointer;
+    font-size: 14px;
+    padding-left: 18px;
+    width: 560px;
+}
+.product-support-faqs .ul-01 .div-01 .p1 a {
+    cursor: pointer;
+    display: block;
+    width: 560px;
+}
+.product-support-faqs .ul-01 .div-01 .p1 a strong {
+    font-weight: normal;
+}
+.product-support-faqs .ul-01 .div-01 .p2 {
+    color: #666666;
+    font-size: 12px;
+    width: 150px;
+}
+.product-support-faqs .ul-01 .div-02 {
+    cursor: pointer;
+    font-size: 8px;
+    height: 12px;
+    line-height: 8px;
+    padding: 8px 0 3px 13px;
+}
+.product-support-faqs .ul-01 .div-03 {
+    display: none;
+}
+.product-support-faqs .ul-01 .div-03 .left {
+    padding-left: 18px;
+}
+.product-support-faqs .ul-01 .div-03 .right {
+    background: none repeat scroll 0 0 #D7D7D7;
+    float: right;
+    height: 475px;
+    width: 250px;
+}
+.product-support-faqs .ul-01 .div-04 {
+    display: none;
+    padding-bottom: 15px;
+    text-align: right;
+}
+.product-support-faqs .ul-01 .div-04 img {
+    cursor: pointer;
+}
+
+.product-support-faqs {
+    line-height: 1.8;
+}
+.product-support-faqs .ul-01 .li-0 div .left .product-feedback-faq-detail {
+    width: 920px;
+}
+
+.page {
+    height: 35px;
+    margin: 0 auto;
+    padding: 50px 0;
+    width: 180px;
+}
+.store-content-right .page {
+    padding-top: 5px;
+}
+.page a {
+    float: left;
+}
+.page .prev {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -760px -670px transparent;
+    height: 35px;
+    margin-right: 12px;
+    width: 35px;
+}
+.page .next {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -760px -735px transparent;
+    height: 35px;
+    margin-left: 20px;
+    width: 35px;
+}
+.page .prev:hover {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -760px -338px transparent;
+}
+.page .next:hover {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -760px -403px transparent;
+}
+.page .a-1 {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -380px -270px transparent;
+    height: 10px;
+    margin: 12px 0 0 8px;
+    width: 10px;
+}
+.page .a-2 {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -380px -310px transparent;
+    height: 10px;
+    margin: 12px 0 0 8px;
+    width: 10px;
+}
+.page .a-1:hover {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll -380px -310px transparent;
+}
+
+.pb30 {
+    padding-bottom: 30px;
+}
+
+.page .prev1 {
+    background: url("../image/faq/img_dev_en_store_left.jpg") no-repeat scroll 0 0 transparent;
+    height: 35px;
+    margin-right: 12px;
+    width: 35px;
+}
+.page .prev1:hover {
+    cursor: default;
+}
+
+.menu a:hover {
+    color: #DF1000;
+}
+.menu .a-1 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 0 transparent;
+}
+.menu .a-2 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -528px transparent;
+}
+.menu .a-3 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -132px transparent;
+    width: 95px;
+}
+.menu .a-4 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -264px transparent;
+}
+.menu .a-5 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -396px transparent;
+}
+.menu .a-0 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -703px transparent;
+}
+.menu .a-6 {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -863px transparent;
+}
+.menu .a-0:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -779px transparent;
+}
+.menu .a-6:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -924px transparent;
+}
+.menu .a-1:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -66px transparent;
+    color: #DF1000;
+}
+.menu .a-2:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -594px transparent;
+    color: #DF1000;
+}
+.menu .a-3:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -198px transparent;
+    color: #DF1000;
+}
+.menu .a-4:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -330px transparent;
+    color: #DF1000;
+}
+.menu .a-5:hover {
+    background: url("../image/faq/img_con_cn_common_3.png") no-repeat scroll 0 -462px transparent;
+    color: #DF1000;
+}
+
+.big-start-wrap {
+    margin: 0 auto;
+    width: 162px;
+}
+
+.product-feedback .li-2 .big-start-wrap {
+    cursor: pointer;
+}
+
+.features-content-add li .p-2 {
+    color: #333333;
+    font-size: 13px;
+    padding-bottom: 45px;
+    width: 600px;
+}
+
+.latest-phone li .p-2 {
+    padding: 0 0 4px 62px;
+}
+
+.reviews_content .p-2 {
+    color: #FC8D33;
+    font-family: "Microsoft Yahei","Heiti SC","&#40657;
+    font-size: 16px;
+    text-align: center;
+}
+
+.fl {
+    display: inline;
+    float: left;
+}
+
+.big-star-2 {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll 0 -951px transparent;
+    float: left;
+    height: 25px;
+    padding-right: 5px;
+    width: 26px;
+}
+
+.tab .li-3 {
+    float: right;
+    height: 54px;
+    margin-left: 110px;
+    position: absolute;
+    right: 82px;
+    width: 85px;
+}
+.gray-rounded .li-3 {
+    margin-left: 110px;
+}
+
+.textarea-1 {
+    height: 80px;
+    line-height: 150%;
+    overflow: auto;
+    padding: 4px 5px;
+    width: 430px;
+}
+
+.product-feedback .textarea-1 {
+    border: 1px solid #CCCCCC;
+    height: 105px;
+    width: 385px;
+}
+
+.contact-us-2 .left .textarea-1 {
+    border: 1px solid #E1E1E1;
+    display: inline;
+    height: 130px;
+    width: 356px;
+}
+
+.txt-h24 {
+    background: url("image/faq/hw_u_257553.jpg") repeat-x scroll 0 0 #F0F0F0;
+    border: 1px solid #E1E1E1;
+    color: #959595;
+    height: 24px;
+    line-height: 24px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.txt-h24-4 {
+    color: #959595;
+}
+
+.big-star-1 {
+    background: url("../image/faq/img_dev_en_common_jpg.jpg") no-repeat scroll 0 -896px transparent;
+    float: left;
+    height: 25px;
+    padding-right: 5px;
+    width: 26px;
+}
+
+
+.product-support-faqs .ul-01 .div-01 .p1 a strong {
+    font-weight: normal;
+}
+
+.product-support-faqs .ul-01 .div-01 .p2 {
+    color: #666666;
+    font-size: 12px;
+    width: 150px;
+}
+
+.product-support-faqs .ul-01 .li-0 .div-01 {
+    width: 960px;
+}
+
+.product-support-faqs .ul-01 .div-01 .p1 {
+    cursor: pointer;
+    font-size: 14px;
+    padding-left: 18px;
+    width: 560px;
+}
+
+.fr {
+    display: inline;
+    float: right;
+}
+
